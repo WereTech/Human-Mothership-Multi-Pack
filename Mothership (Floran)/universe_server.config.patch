@@ -1,0 +1,16 @@
+[
+	{ "op" : "replace",
+	"path" : "/speciesShips/floran",
+	"value" : [ 
+	"/ships/mothership7/humanmothership0.structure",
+	"/ships/mothership7/humanmothership1.structure",
+	"/ships/mothership7/humanmothership2.structure",
+	"/ships/mothership7/humanmothership3.structure",
+	"/ships/mothership7/humanmothership4.structure",
+	"/ships/mothership7/humanmothership5.structure",
+	"/ships/mothership7/humanmothership6.structure",
+	"/ships/mothership7/humanmothership7.structure",
+	"/ships/mothership7/humanmothership8.structure"
+		]
+	}
+]

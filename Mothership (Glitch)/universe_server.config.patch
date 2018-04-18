@@ -1,0 +1,16 @@
+[
+	{ "op" : "replace",
+	"path" : "/speciesShips/glitch",
+	"value" : [ 
+	"/ships/mothership8/humanmothership0.structure",
+	"/ships/mothership8/humanmothership1.structure",
+	"/ships/mothership8/humanmothership2.structure",
+	"/ships/mothership8/humanmothership3.structure",
+	"/ships/mothership8/humanmothership4.structure",
+	"/ships/mothership8/humanmothership5.structure",
+	"/ships/mothership8/humanmothership6.structure",
+	"/ships/mothership8/humanmothership7.structure",
+	"/ships/mothership8/humanmothership8.structure"
+		]
+	}
+]

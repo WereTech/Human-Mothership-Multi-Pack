@@ -1,0 +1,16 @@
+[
+	{ "op" : "replace",
+	"path" : "/speciesShips/kemono",
+	"value" : [ 
+	"/ships/mothership12/humanmothership0.structure",
+	"/ships/mothership12/humanmothership1.structure",
+	"/ships/mothership12/humanmothership2.structure",
+	"/ships/mothership12/humanmothership3.structure",
+	"/ships/mothership12/humanmothership4.structure",
+	"/ships/mothership12/humanmothership5.structure",
+	"/ships/mothership12/humanmothership6.structure",
+	"/ships/mothership12/humanmothership7.structure",
+	"/ships/mothership12/humanmothership8.structure"
+		]
+	}
+]

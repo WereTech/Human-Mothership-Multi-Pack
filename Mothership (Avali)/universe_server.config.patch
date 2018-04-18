@@ -1,0 +1,16 @@
+[
+	{ "op" : "replace",
+	"path" : "/speciesShips/avali",
+	"value" : [ 
+	"/ships/mothership2/humanmothership0.structure",
+	"/ships/mothership2/humanmothership1.structure",
+	"/ships/mothership2/humanmothership2.structure",
+	"/ships/mothership2/humanmothership3.structure",
+	"/ships/mothership2/humanmothership4.structure",
+	"/ships/mothership2/humanmothership5.structure",
+	"/ships/mothership2/humanmothership6.structure",
+	"/ships/mothership2/humanmothership7.structure",
+	"/ships/mothership2/humanmothership8.structure"
+		]
+	}
+]

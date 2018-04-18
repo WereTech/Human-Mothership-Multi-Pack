@@ -1,0 +1,16 @@
+[
+	{ "op" : "replace",
+	"path" : "/speciesShips/fenerox",
+	"value" : [ 
+	"/ships/mothership6/humanmothership0.structure",
+	"/ships/mothership6/humanmothership1.structure",
+	"/ships/mothership6/humanmothership2.structure",
+	"/ships/mothership6/humanmothership3.structure",
+	"/ships/mothership6/humanmothership4.structure",
+	"/ships/mothership6/humanmothership5.structure",
+	"/ships/mothership6/humanmothership6.structure",
+	"/ships/mothership6/humanmothership7.structure",
+	"/ships/mothership6/humanmothership8.structure"
+		]
+	}
+]

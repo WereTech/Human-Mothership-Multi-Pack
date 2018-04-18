@@ -1,0 +1,16 @@
+[
+	{ "op" : "replace",
+	"path" : "/speciesShips/avian",
+	"value" : [ 
+	"/ships/mothership3/humanmothership0.structure",
+	"/ships/mothership3/humanmothership1.structure",
+	"/ships/mothership3/humanmothership2.structure",
+	"/ships/mothership3/humanmothership3.structure",
+	"/ships/mothership3/humanmothership4.structure",
+	"/ships/mothership3/humanmothership5.structure",
+	"/ships/mothership3/humanmothership6.structure",
+	"/ships/mothership3/humanmothership7.structure",
+	"/ships/mothership3/humanmothership8.structure"
+		]
+	}
+]

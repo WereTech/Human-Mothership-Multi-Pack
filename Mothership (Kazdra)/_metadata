@@ -1,0 +1,11 @@
+{
+  "author" : "Max",
+  "description" : "This big mother hubbard of a ship back in the early [i]A N G E R Y[/i] Koala days has been brought back and fixed up to the current standards of Starbound. Complete with all the original art used for the ship with some modifications. \n\nYou can also go outside the ship through the bottom left exit, but you'll fall into a perpetual nothingness if you don't go prepared. Most of the ship lights placed throughout the ship are just for even lighting, of course you could just break them or replace with any other light source. \n\nThe ship even starts with 40 total crew member slots, all the way up to 70 slots at tier 8.\n\n[b]Warning[/b]: For those of you who use a mod that gets rid of ship damage protections, I would highly advise being careful when you go down to each level as you would likely die from fall damage. I have placed hazard blocks at each level so you can't drop directly from the top to bottom immediately, but that can only do so much.\n\nI might add in some art for all the empty black spaces later(and yes there was a gradient border where the inner walls are, but I had to delete that for the new walls I added in because that'd be a pain to attempt fixing every single offset there was)\n\n[h1]Anyone can modify/re-upload these files. No credit needed. Just don't try to take credit for the work I modified myself :P[/h1]",
+  "friendlyName" : "Human Mothership Revived",
+  "link" : "steam://url/CommunityFilePage/1317409648",
+  "name" : "Human Mothership Revived Kazdra",
+  "steamContentId" : "1317409648",
+  "tags" : "Ships",
+  "requires" : ["kazdrareloaded"],
+  "version" : "1.0"
+}

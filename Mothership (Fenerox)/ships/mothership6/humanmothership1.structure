@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [],
+      "crewSize" : 40
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "humanmothership1.png",
+      "position" : [1, 0],
+      "fullbright" : true
+    },
+    {
+      "image" : "humanmothership1lit.png",
+      "position" : [1, 0]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "humanmothership1blocks.png"
+}

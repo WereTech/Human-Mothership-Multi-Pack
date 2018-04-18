@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 45
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "humanmothership4.png",
+      "position" : [1, 0],
+      "fullbright" : true
+    },
+    {
+      "image" : "humanmothership4lit.png",
+      "position" : [1, 0]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "humanmothership4blocks.png"
+}

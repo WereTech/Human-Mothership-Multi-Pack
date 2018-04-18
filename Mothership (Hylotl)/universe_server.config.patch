@@ -1,0 +1,16 @@
+[
+	{ "op" : "replace",
+	"path" : "/speciesShips/hylotl",
+	"value" : [ 
+	"/ships/mothership9/humanmothership0.structure",
+	"/ships/mothership9/humanmothership1.structure",
+	"/ships/mothership9/humanmothership2.structure",
+	"/ships/mothership9/humanmothership3.structure",
+	"/ships/mothership9/humanmothership4.structure",
+	"/ships/mothership9/humanmothership5.structure",
+	"/ships/mothership9/humanmothership6.structure",
+	"/ships/mothership9/humanmothership7.structure",
+	"/ships/mothership9/humanmothership8.structure"
+		]
+	}
+]

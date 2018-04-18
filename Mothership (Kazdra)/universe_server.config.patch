@@ -1,0 +1,16 @@
+[
+	{ "op" : "replace",
+	"path" : "/speciesShips/kazdra",
+	"value" : [ 
+	"/ships/mothership10/humanmothership0.structure",
+	"/ships/mothership10/humanmothership1.structure",
+	"/ships/mothership10/humanmothership2.structure",
+	"/ships/mothership10/humanmothership3.structure",
+	"/ships/mothership10/humanmothership4.structure",
+	"/ships/mothership10/humanmothership5.structure",
+	"/ships/mothership10/humanmothership6.structure",
+	"/ships/mothership10/humanmothership7.structure",
+	"/ships/mothership10/humanmothership8.structure"
+		]
+	}
+]

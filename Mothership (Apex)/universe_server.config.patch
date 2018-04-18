@@ -1,0 +1,16 @@
+[
+	{ "op" : "replace",
+	"path" : "/speciesShips/apex",
+	"value" : [ 
+	"/ships/mothership1/humanmothership0.structure",
+	"/ships/mothership1/humanmothership1.structure",
+	"/ships/mothership1/humanmothership2.structure",
+	"/ships/mothership1/humanmothership3.structure",
+	"/ships/mothership1/humanmothership4.structure",
+	"/ships/mothership1/humanmothership5.structure",
+	"/ships/mothership1/humanmothership6.structure",
+	"/ships/mothership1/humanmothership7.structure",
+	"/ships/mothership/1humanmothership8.structure"
+		]
+	}
+]
