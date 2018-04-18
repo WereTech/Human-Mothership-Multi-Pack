@@ -1,0 +1,16 @@
+[
+	{ "op" : "replace",
+	"path" : "/speciesShips/everis",
+	"value" : [ 
+	"/ships/mothership14/humanmothership0.structure",
+	"/ships/mothership14/humanmothership1.structure",
+	"/ships/mothership14/humanmothership2.structure",
+	"/ships/mothership14/humanmothership3.structure",
+	"/ships/mothership14/humanmothership4.structure",
+	"/ships/mothership14/humanmothership5.structure",
+	"/ships/mothership14/humanmothership6.structure",
+	"/ships/mothership14/humanmothership7.structure",
+	"/ships/mothership14/humanmothership8.structure"
+		]
+	}
+]
