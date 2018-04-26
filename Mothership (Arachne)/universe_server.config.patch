@@ -1,0 +1,16 @@
+[
+	{ "op" : "replace",
+	"path" : "/speciesShips/arachne",
+	"value" : [ 
+	"/ships/mothership16/humanmothership0.structure",
+	"/ships/mothership16/humanmothership1.structure",
+	"/ships/mothership16/humanmothership2.structure",
+	"/ships/mothership16/humanmothership3.structure",
+	"/ships/mothership16/humanmothership4.structure",
+	"/ships/mothership16/humanmothership5.structure",
+	"/ships/mothership16/humanmothership6.structure",
+	"/ships/mothership16/humanmothership7.structure",
+	"/ships/mothership16/humanmothership8.structure"
+		]
+	}
+]
