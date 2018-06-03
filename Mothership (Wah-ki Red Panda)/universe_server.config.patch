@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+	"path" : "/speciesShips/wah-ki",
+	"value" : [ 
+	"/ships/mothership24/humanmothership0.structure",
+	"/ships/mothership24/humanmothership1.structure",
+	"/ships/mothership24/humanmothership2.structure",
+	"/ships/mothership24/humanmothership3.structure",
+	"/ships/mothership24/humanmothership4.structure",
+	"/ships/mothership24/humanmothership5.structure",
+	"/ships/mothership24/humanmothership6.structure",
+	"/ships/mothership24/humanmothership7.structure",
+	"/ships/mothership24/humanmothership8.structure"
+		]
+	}
+]

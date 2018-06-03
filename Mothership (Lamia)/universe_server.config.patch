@@ -1,0 +1,16 @@
+[
+	{ "op" : "replace",
+	"path" : "/speciesShips/lamia",
+	"value" : [ 
+	"/ships/mothership21/humanmothership0.structure",
+	"/ships/mothership21/humanmothership1.structure",
+	"/ships/mothership21/humanmothership2.structure",
+	"/ships/mothership21/humanmothership3.structure",
+	"/ships/mothership21/humanmothership4.structure",
+	"/ships/mothership21/humanmothership5.structure",
+	"/ships/mothership21/humanmothership6.structure",
+	"/ships/mothership21/humanmothership7.structure",
+	"/ships/mothership21/humanmothership8.structure"
+		]
+	}
+]
