@@ -1,0 +1,16 @@
+[
+	{ "op" : "replace",
+	"path" : "/speciesShips/catus",
+	"value" : [ 
+	"/ships/mothership25/humanmothership0.structure",
+	"/ships/mothership25/humanmothership1.structure",
+	"/ships/mothership25/humanmothership2.structure",
+	"/ships/mothership25/humanmothership3.structure",
+	"/ships/mothership25/humanmothership4.structure",
+	"/ships/mothership25/humanmothership5.structure",
+	"/ships/mothership25/humanmothership6.structure",
+	"/ships/mothership25/humanmothership7.structure",
+	"/ships/mothership25/humanmothership8.structure"
+		]
+	}
+]
